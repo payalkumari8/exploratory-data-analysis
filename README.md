@@ -9,3 +9,8 @@ Some of the insights found through this data were:
 3.Less than 5% of cities have more than 1000 yearly accidents.
 4.Over 1167 cities have reported just one accident.
 
+
+Here is the link to get the data from Kaggle:
+https://www.kaggle.com/sobhanmoosavi/us-accidents
+
+
